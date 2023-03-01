@@ -1,0 +1,6 @@
+    1  ls -la
+    2  pwd
+    3  git clone https://github.com/matusz-no/wsb_php_stac.git
+    4  cd wsb_php_stac
+    5  ls
+    6  history > plikhistoria
